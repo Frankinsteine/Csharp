@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\bin\Debug\netcoreapp3.1\Hostel.exe
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\bin\Debug\netcoreapp3.1\Hostel.deps.json
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\bin\Debug\netcoreapp3.1\Hostel.runtimeconfig.json
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\bin\Debug\netcoreapp3.1\Hostel.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\bin\Debug\netcoreapp3.1\Hostel.dll
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\bin\Debug\netcoreapp3.1\Hostel.pdb
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.AssemblyInfo.cs
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.dll
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.pdb
+C:\Users\Артур\Desktop\учёба\Csharp\delegate\Hostel\Hostel\obj\Debug\netcoreapp3.1\Hostel.genruntimeconfig.cache
